@@ -14,17 +14,17 @@ You must install
 
 We use Ubuntu, and these are the steps to start install the components:
 
-# sudo apt-get install nodejs npm
-# sudo npm install -g npm
-# sudo npm install -g bower grunt-cli
+- sudo apt-get install nodejs npm
+- sudo npm install -g npm
+- sudo npm install -g bower grunt-cli
 
 
-# git clone https://github.com/meruvian/midasjs.git
-# cd midasjs
-# npm install
-# bower install
+- git clone https://github.com/meruvian/midasjs.git
+- cd midasjs
+- npm install
+- bower install
 
-# grunt serve
+- grunt serve
 
 
 Build Project: 
